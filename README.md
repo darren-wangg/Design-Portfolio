@@ -13,7 +13,7 @@ Beat Exchange Prototype \
 <img src="Beat%20Exchange/iPhone%2011%20Pro%20Max%20(Home%20Page,%20Wall).jpg" width="25%" height="25%">
 <img src="Beat%20Exchange/Dark%20Mode%20(Home%20Page,%20Wall).jpg" width="25%" height="25%">
 
-<a href="http://phytogine.com/">Phytogine Website</a>
+<a href="http://phytogine.com/">Phytogine Website</a> \
 <img src="Phytogine%20Website/Phytogine%20(Home).png" width="50%" height="50%">
 <img src="Phytogine%20Website/Phytogine%20(Home%202).png" width="50%" height="50%">
 <img src="Phytogine%20Website/Phytogine%20(Contact%20Us).png" width="50%" height="50%">
