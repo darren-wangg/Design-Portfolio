@@ -9,6 +9,7 @@ Toasty App Prototype Screens \
 <img src="Toasty%20Mobile%20App/Profile.jpg" width="25%" height="25%">
 
 Beat Exchange Prototype \
+(Building on the Spotify platform) \
 <img src="Beat%20Exchange/MacBook%20Pro.jpg" width="50%" height="50%"> \
 <img src="Beat%20Exchange/iPhone%2011%20Pro%20Max%20(Home%20Page,%20Wall).jpg" width="25%" height="25%">
 <img src="Beat%20Exchange/Dark%20Mode%20(Home%20Page,%20Wall).jpg" width="25%" height="25%">
