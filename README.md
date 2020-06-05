@@ -15,7 +15,7 @@ Beat Exchange Prototype \
 <img src="Beat%20Exchange/(Home,%20Explore,%20Default).jpg" width="25%" height="25%">
 <img src="Beat%20Exchange/(Home,%20Trending,%20Default).jpg" width="25%" height="25%"> \
 <img src="Beat%20Exchange/Dark%20Mode%20(Home,%20Wall).jpg" width="25%" height="25%">
-<img src="Beat%20Exchange/(Home,%20Explore,%20,Dark%20Mode).jpg" width="25%" height="25%">
+<img src="Beat%20Exchange/(Home,%20Explore,%20Dark%20Mode).jpg" width="25%" height="25%">
 
 <a href="http://phytogine.com/">Phytogine Website</a> \
 <img src="Phytogine%20Website/Phytogine%20(Home).png" width="50%" height="50%">
