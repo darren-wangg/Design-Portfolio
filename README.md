@@ -13,12 +13,12 @@ Beat Exchange Prototype \
 \
 <img src="BeatExchange/Desktop%20(Home,%20Default).jpg" width="40%" height="40%">
 <img src="BeatExchange/Desktop%20(Home%20Post,%20Default).jpg" width="40%" height="40%">
-<img src="BeatExchange/Desktop%20(Messages,%20Default).jpg" width="40%" height="40%"> \
+<img src="BeatExchange/Desktop%20(Messages,%20Default).jpg" width="40%" height="40%">
 
 <img src="BeatExchange/iPhone%2011%20Pro%20Max%20(Home,%20Wall,%20Default).jpg" width="25%" height="25%">
 <img src="BeatExchange/(Home,%20Explore,%20Default).jpg" width="25%" height="25%">
-<img src="BeatExchange/(Home,%20Trending,%20Default).jpg" width="25%" height="25%"> \
-<img src="BeatExchange/(Message,%20Default).jpg" width="25%" height="25%"> \
+<img src="BeatExchange/(Home,%20Trending,%20Default).jpg" width="25%" height="25%">
+<img src="BeatExchange/(Message,%20Default).jpg" width="25%" height="25%">
 
 <img src="BeatExchange/Dark%20Mode%20(Home,%20Wall).jpg" width="25%" height="25%">
 <img src="BeatExchange/(Home,%20Explore,%20Dark%20Mode).jpg" width="25%" height="25%">
