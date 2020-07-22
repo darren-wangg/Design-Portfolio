@@ -1,5 +1,6 @@
 # Design Portfolio
 Toasty App Prototype Screens \
+\
 <img src="Toasty%20Mobile%20App/Login.jpg" width="25%" height="25%">
 <img src="Toasty%20Mobile%20App/My%20Events%20(Design%201).jpg" width="25%" height="25%">
 <img src="Toasty%20Mobile%20App/Event%20Detail%20(2).jpg" width="25%" height="25%">
@@ -9,15 +10,21 @@ Toasty App Prototype Screens \
 <img src="Toasty%20Mobile%20App/Profile.jpg" width="25%" height="25%">
 
 Beat Exchange Prototype \
-(Building on the Spotify platform) \
-<img src="Beat%20Exchange/MacBook%20Pro.jpg" width="50%" height="50%"> \
-<img src="Beat%20Exchange/iPhone%2011%20Pro%20Max%20(Home,%20Wall,%20Default).jpg" width="25%" height="25%">
-<img src="Beat%20Exchange/(Home,%20Explore,%20Default).jpg" width="25%" height="25%">
-<img src="Beat%20Exchange/(Home,%20Trending,%20Default).jpg" width="25%" height="25%"> \
-<img src="Beat%20Exchange/Dark%20Mode%20(Home,%20Wall).jpg" width="25%" height="25%">
-<img src="Beat%20Exchange/(Home,%20Explore,%20Dark%20Mode).jpg" width="25%" height="25%">
+\
+<img src="BeatExchange/Desktop%20(Home,%20Default).jpg" width="50%" height="50%">
+<img src="BeatExchange/Desktop%20(Home%20Post,%20Default).jpg" width="50%" height="50%"> \
+<img src="BeatExchange/Desktop%20(Messages,%20Default).jpg" width="50%" height="50%"> \
+
+<img src="BeatExchange/iPhone%2011%20Pro%20Max%20(Home,%20Wall,%20Default).jpg" width="25%" height="25%">
+<img src="BeatExchange/(Home,%20Explore,%20Default).jpg" width="25%" height="25%">
+<img src="BeatExchange/(Home,%20Trending,%20Default).jpg" width="25%" height="25%"> \
+<img src="BeatExchange/(Message,%20Default).jpg" width="25%" height="25%"> \
+
+<img src="BeatExchange/Dark%20Mode%20(Home,%20Wall).jpg" width="25%" height="25%">
+<img src="BeatExchange/(Home,%20Explore,%20Dark%20Mode).jpg" width="25%" height="25%">
 
 <a href="http://phytogine.com/">Phytogine Website</a> \
+\
 <img src="Phytogine%20Website/Phytogine%20(Home).png" width="50%" height="50%">
 <img src="Phytogine%20Website/Phytogine%20(Home%202).png" width="50%" height="50%">
 <img src="Phytogine%20Website/Phytogine%20(Contact%20Us).png" width="50%" height="50%">
